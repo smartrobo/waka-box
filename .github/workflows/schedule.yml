@@ -11,5 +11,5 @@ jobs:
         uses: matchai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: https://gist.github.com/smartrobo/2a8837f7b1052f45ef0098ab50e669dceeb8c58c
+          GIST_ID: https://gist.github.com/smartrobo/f8a05349161ee15e31f7de59bc13de4a.js
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
